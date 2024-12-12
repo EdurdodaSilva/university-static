@@ -25,6 +25,7 @@
     background-color: rgba(0, 0, 0, 0.68);
     padding: 40px;
     color: #fff;
+
     @include atMedium {
       width: 50%;
     }
@@ -40,6 +41,7 @@
   margin: 0;
   text-align: center;
   top: 15px;
+
   @include atMedium {
     top: 50px;
   }
@@ -84,6 +86,7 @@
   margin: 0;
   text-align: center;
   top: 15px;
+
   @include atMedium {
     top: 50px;
   }
